@@ -15,6 +15,7 @@ exports.run = (client, message) => {
         .addField('Fun', '`Slots`, `RateUser`')
         .addField('NSFW', '`Ass`, `Anal`, `Boobs`, `PornGif`')
         .addField('NSFW Hentai', '`HBj`, `HBoobs`, `Hentai`, `HGif`, `HLes`, `HPussy`, `Neko`, `NekoGif`')
+        .addField('Game Stats', '`CSGO`, `Fortnite`, `Overwatch`')
         .setFooter(`${client.user.tag} Made with Love and JS code by papershredder432#0883`)
 
     message.channel.send(helpE);
