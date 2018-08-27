@@ -5,5 +5,7 @@
     "clientOwner": "",
 
     "clientUsername": "",
-    "clientVersion": ""
+    "clientVersion": "",
+
+    "fortniteApiKey": ""
 }
