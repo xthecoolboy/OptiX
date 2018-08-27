@@ -24,13 +24,19 @@
         "Leeroy": "Plays a sound clip. [Doesn't Work]"
     },
     "User": {
+        "DBL": "Grabs a bots info off of Discordd Bot list. Accepts a bots ID as args, but if no args defaults to AngelicBot#7047.",
+        "Emojis": "List all of the guilds emojis.",
+        "IP": "Looks up a public IP address and tells you information about it. Stalker.",
         "Settings": "See the settings for this guild. [Doesn't Work]",
         "Ping": "Shows the ping.",
         "Warns": "Shows how many warnings a user has. [Doesn't Work]",
         "Guilds": "Shows what guilds I am in, and how many members in the guilds provided.",
         "Help": "Shows all commands and what they do."
     },
-    "Fun": {
+    "Fun": {    
+        "8Ball": "Spoopy magic 8 balls.",
+        "Avatar": "Ever wanted to steal someone elses avatar? Well now you can.",
+        "Clapify": "Adds clap emojis and random cases to your text.",
         "Slots": "Gamble with a slot machine, see if you win or not.",
         "RateUser": "Rates a user."
     },
@@ -49,5 +55,10 @@
         "HPussy": "Displays hentai pussy.",
         "Neko": "Displays a lewd catgirl.",
         "NekoGif": "Displays a lewd catgirl gif."
+    },
+    "Game_STATS": {
+        "CSGO": "Grabs CS:GO Stats",
+        "Fortnite": "Grabs Fortnite Stats",
+        "Overwatch": "Grabs Overwatch Stats."
     }
 }
