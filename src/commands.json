@@ -1,0 +1,53 @@
+{
+    "GuildOwner": {
+        "AdminRole": "Sets the admin role. [Doesn't Work]",
+        "Autorole": "Sets the autorole role. [Doesn't Work]",
+        "LoggingChannel": "Sets the logging channel. [Doesn't Work]",
+        "ModRole": "Sets the mod role. [Doesn't Work]",
+        "WelcomeChannel": "Sets the welcome channel. [Doesn't Work]"
+    },
+    "Administrator": {
+        "Prefix": "Changes the prefix. [Doesn't Work]",
+        "Pause": "Pauses the music.",
+        "Resume": "resumes the music."
+    },
+    "Moderator": {
+        "Warn": "Warns a user. [Doesn't Work]",
+        "Purge": "Deletes X amount of messages"
+    },
+    "Music": {
+        "Play": "Plays music.",
+        "Queue": "Views the music queue.",
+        "Skip": "Votes to skip the current song"
+    },
+    "Sound_Effects": {
+        "Leeroy": "Plays a sound clip. [Doesn't Work]"
+    },
+    "User": {
+        "Settings": "See the settings for this guild. [Doesn't Work]",
+        "Ping": "Shows the ping.",
+        "Warns": "Shows how many warnings a user has. [Doesn't Work]",
+        "Guilds": "Shows what guilds I am in, and how many members in the guilds provided.",
+        "Help": "Shows all commands and what they do."
+    },
+    "Fun": {
+        "Slots": "Gamble with a slot machine, see if you win or not.",
+        "RateUser": "Rates a user."
+    },
+    "NSFW": {
+        "Ass": "Displays an ass.",
+        "Anal": "Displays an image or gif of anal.",
+        "Boobs": "Displays some boobs.",
+        "PornGif": "Displays a porn gif."
+    },
+    "NSFW_HENTAI": {
+        "HBj": "Displays hentai blowjobs.",
+        "HBoobs": "Displays hentai boobs.",
+        "Hentai": "Displays hentai.",
+        "HGif": "Displays a random hentai gif.",
+        "Hles": "Displays a hentai ?.",
+        "HPussy": "Displays hentai pussy.",
+        "Neko": "Displays a lewd catgirl.",
+        "NekoGif": "Displays a lewd catgirl gif."
+    }
+}
