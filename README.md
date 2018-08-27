@@ -3,11 +3,11 @@ A Discord bot made with love and bad JS.
 
 
 ## There are more plans with this in the future, such as:
-..* A database
-..* Guild settings
-..* Customizable prefix, logging channel, etc.
-..* More game stats commands
-..* Better music system
+- A database
+- Guild settings
+- Customizable prefix, logging channel, etc.
+- More game stats commands
+- Better music system
 
 
 # Use
