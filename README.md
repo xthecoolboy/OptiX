@@ -19,6 +19,11 @@ See instant updates on the bot's code.
 
 
 
+### Contributers
+None yet, go to the Discord to apply.
+
+
+
 ## Use
 If you use this code, I ask of one thing, please credit me. ;3
 
